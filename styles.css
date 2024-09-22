@@ -1,3 +1,4 @@
 
 h3{text-align: center;}
 div{align-items: center;}
+.mydiv{-ms-flex-align: center; padding: 25px; margin: 50px;}
